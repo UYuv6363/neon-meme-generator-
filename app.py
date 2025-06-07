@@ -6,7 +6,7 @@ from io import BytesIO
 
 # ========== SETTINGS ==========
 TEMPLATE_FOLDER = "templates"
-FONT_FOLDER = "fonts"
+FONT_FOLDER = "Fonts"
 os.makedirs(TEMPLATE_FOLDER, exist_ok=True)
 os.makedirs(FONT_FOLDER, exist_ok=True)
 
